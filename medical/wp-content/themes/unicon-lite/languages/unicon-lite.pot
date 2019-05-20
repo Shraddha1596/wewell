@@ -1,0 +1,1414 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Unicon Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-17 06:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: unicon/functions.php:1277
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: unicon/functions.php:983
+#, php-format
+msgid "%1$s By %2$s"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:149
+#, php-format
+msgid "%s Service Section"
+msgstr ""
+
+#: unicon/functions.php:1312
+msgid "&laquo; First"
+msgstr ""
+
+#: unicon/customizer/unicon-custom-controls.php:74
+msgid "&mdash; Select Category &mdash;"
+msgstr ""
+
+#: unicon/functions.php:41
+msgid "+977-1-4671980"
+msgstr ""
+
+#: unicon/functions.php:306
+msgid "01"
+msgstr ""
+
+#: unicon/functions.php:328
+msgid "02"
+msgstr ""
+
+#: unicon/functions.php:354
+msgid "03"
+msgstr ""
+
+#: unicon/functions.php:375
+msgid "04"
+msgstr ""
+
+#: unicon/functions.php:401
+msgid "05"
+msgstr ""
+
+#: unicon/functions.php:422
+msgid "06"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:128 welcome/sections/free_vs_pro.php:140
+msgid "13"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:92
+msgid "2"
+msgstr ""
+
+#: unicon/hooks/hooks.php:30
+msgid "404"
+msgstr ""
+
+#: unicon/functions.php:1275
+#, php-format
+msgid "<h4 class=\"media-heading\">%s</h4>"
+msgstr ""
+
+#: unicon/functions.php:507
+msgid "<span>We Have</span> Completed Projects"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:4
+msgid "About Section"
+msgstr ""
+
+#. Author of the theme
+msgid "AccessPress Themes"
+msgstr ""
+
+#: welcome/welcome.php:197 welcome/sections/recommended_plugins.php:33
+#: welcome/sections/recommended_plugins.php:90
+msgid "Activate"
+msgstr ""
+
+#: welcome/welcome.php:198
+msgid "Activated"
+msgstr ""
+
+#: unicon/functions.php:545
+#: unicon/customizer/homepage-section/homepage-options.php:389
+msgid "Active Expert"
+msgstr ""
+
+#: comments.php:79
+msgid "ADD COMMENT"
+msgstr ""
+
+#: functions.php:118 functions.php:128 functions.php:138
+msgid "Add widgets here."
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:51
+msgid "Address"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:38
+#: unicon/customizer/header-section/header-options.php:66
+msgid "Address Icon"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:109
+msgid "Advanced Typography Options"
+msgstr ""
+
+#: unicon/customizer/customizer.php:96
+msgid "Animation Settings"
+msgstr ""
+
+#: unicon/functions.php:1157
+msgid "Archive by category"
+msgstr ""
+
+#: welcome/welcome.php:201
+msgid "Are you sure to import demo content ?"
+msgstr ""
+
+#: unicon/functions.php:1221
+msgid "Articles posted by "
+msgstr ""
+
+#: 404.php:31
+msgid "Back To Home"
+msgstr ""
+
+#: welcome/sections/getting_started.php:5
+msgid ""
+"Before you start setting up the theme, there are few recommended action that "
+"you need to follow. These recommendation helps you to set up the theme more "
+"easily and quickly."
+msgstr ""
+
+#: unicon/functions.php:871
+#: unicon/customizer/homepage-section/homepage-options.php:453
+#: unicon/customizer/homepage-section/homepage-options.php:770
+msgid ""
+"Better security happens when we work together, Get tips on further steps you "
+"can take to protect yourself online."
+msgstr ""
+
+#: unicon/hooks/header.php:139
+#: unicon/customizer/header-section/header-options.php:292
+msgid ""
+"Better security happens when we work together, Get tips on further steps you "
+"can take to protect yourself online. better security happens when we work "
+"together happens"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Page"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:836
+msgid "Blogs"
+msgstr ""
+
+#: unicon/customizer/blog-section/blog-settings.php:7
+msgid "Blogs Page Template Settings"
+msgstr ""
+
+#: unicon/customizer/customizer.php:199
+msgid "Body Font"
+msgstr ""
+
+#: unicon/customizer/customizer.php:120
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:122
+msgid ""
+"Build feature rich pages using beautiful inbuilt easy to use shortcodes."
+msgstr ""
+
+#: unicon/functions.php:753
+#: unicon/customizer/homepage-section/homepage-options.php:592
+msgid "Build promptly, Launch Fast"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:25
+msgid "Built on Customizer."
+msgstr ""
+
+#: functions.php:54
+msgid "Buttom Menu"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:233
+msgid "Buy Now"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:542
+msgid "Call To Action Section"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:110
+msgid "Change the fonts settings for the entire site."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:62
+msgid ""
+"Choose any demo of your choice from the available multiple demo options."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:74
+msgid "Choose any theme skin color you like."
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:39
+msgid "Choose the icon for the address."
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:163
+msgid "Choose the service icon from the lists."
+msgstr ""
+
+#: unicon/functions.php:810
+#: unicon/customizer/homepage-section/homepage-options.php:679
+msgid "Clients"
+msgstr ""
+
+#: comments.php:76
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:41
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:30
+msgid "Comments"
+msgstr ""
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: unicon/functions.php:203
+#: unicon/customizer/homepage-section/homepage-options.php:27
+msgid "Company"
+msgstr ""
+
+#: unicon/customizer/customizer.php:85
+msgid "Compare"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:194
+msgid "Configure the Home Section in any order you like."
+msgstr ""
+
+#: unicon/customizer/customizer.php:193
+msgid "Configure Typography Settings."
+msgstr ""
+
+#: unicon/functions.php:1047
+msgid "Content Centered"
+msgstr ""
+
+#. %s: Name of current post.
+#: template-parts/content-single.php:43
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: unicon/customizer/footer-section/footer-options.php:36
+msgid "Copyright"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:275
+msgid "Counter Section"
+msgstr ""
+
+#: welcome/sections/support.php:9
+msgid "Create Support Tickets"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:50
+msgid "Create the site in your own custom language."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:85
+msgid "Custom Post Types"
+msgstr ""
+
+#: unicon/customizer/header-section/header-settings.php:8
+msgid "Customize your awesome site header settings"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-settings.php:8
+msgid "Customize your awesome site homepage settings"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:27
+#: welcome/sections/recommended_plugins.php:85
+msgid "Deactivate"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:61
+msgid "Demo Import"
+msgstr ""
+
+#: welcome/welcome.php:200
+msgid "Demo Installed"
+msgstr ""
+
+#: unicon/customizer/customizer.php:112 unicon/customizer/customizer.php:137
+#: unicon/customizer/customizer.php:164
+#: unicon/customizer/unicon-sanitize.php:13
+#: unicon/customizer/footer-section/footer-options.php:22
+#: unicon/customizer/header-section/header-options.php:17
+#: unicon/customizer/homepage-section/homepage-options.php:20
+#: unicon/customizer/homepage-section/homepage-options.php:93
+#: unicon/customizer/homepage-section/homepage-options.php:203
+#: unicon/customizer/homepage-section/homepage-options.php:291
+#: unicon/customizer/homepage-section/homepage-options.php:369
+#: unicon/customizer/homepage-section/homepage-options.php:432
+#: unicon/customizer/homepage-section/homepage-options.php:494
+#: unicon/customizer/homepage-section/homepage-options.php:558
+#: unicon/customizer/homepage-section/homepage-options.php:672
+#: unicon/customizer/homepage-section/homepage-options.php:735
+#: unicon/customizer/homepage-section/homepage-options.php:816
+msgid "Disable"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:158
+msgid ""
+"Dispay features your business has to offer in a clean design in home page."
+msgstr ""
+
+#: unicon/functions.php:1018
+msgid "Display Layout Options"
+msgstr ""
+
+#: unicon/customizer/blog-section/blog-options.php:11
+msgid "Display Number of Blog Posts "
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:170
+msgid "Display Skill Section in the home page."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:182
+msgid ""
+"Display your best projects you have worked on to the customers for gaining "
+"the trust."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:38
+msgid "Displays fine in device with screen sizes."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:86
+msgid "Distinct Post Types for different Post of different type."
+msgstr ""
+
+#: unicon/core/custom-header.php:32
+msgid "dkjsldfjsdf"
+msgstr ""
+
+#: welcome/sections/support.php:3
+msgid "Documentation"
+msgstr ""
+
+#. %s: Name of current post
+#: template-parts/content-page.php:37 unicon/core/template-tags.php:72
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:107
+msgid "Email Address"
+msgstr ""
+
+#: comments.php:69
+msgid "Email Address *"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:94
+msgid "Email Icon"
+msgstr ""
+
+#: unicon/customizer/customizer.php:111 unicon/customizer/customizer.php:136
+#: unicon/customizer/customizer.php:163
+#: unicon/customizer/unicon-sanitize.php:12
+#: unicon/customizer/footer-section/footer-options.php:21
+#: unicon/customizer/header-section/header-options.php:16
+#: unicon/customizer/homepage-section/homepage-options.php:19
+#: unicon/customizer/homepage-section/homepage-options.php:92
+#: unicon/customizer/homepage-section/homepage-options.php:202
+#: unicon/customizer/homepage-section/homepage-options.php:290
+#: unicon/customizer/homepage-section/homepage-options.php:368
+#: unicon/customizer/homepage-section/homepage-options.php:431
+#: unicon/customizer/homepage-section/homepage-options.php:493
+#: unicon/customizer/homepage-section/homepage-options.php:557
+#: unicon/customizer/homepage-section/homepage-options.php:671
+#: unicon/customizer/homepage-section/homepage-options.php:734
+#: unicon/customizer/homepage-section/homepage-options.php:815
+msgid "Enable"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:16
+#: unicon/customizer/homepage-section/homepage-options.php:89
+#: unicon/customizer/homepage-section/homepage-options.php:199
+#: unicon/customizer/homepage-section/homepage-options.php:287
+#: unicon/customizer/homepage-section/homepage-options.php:365
+#: unicon/customizer/homepage-section/homepage-options.php:428
+#: unicon/customizer/homepage-section/homepage-options.php:490
+#: unicon/customizer/homepage-section/homepage-options.php:554
+#: unicon/customizer/homepage-section/homepage-options.php:668
+#: unicon/customizer/homepage-section/homepage-options.php:731
+#: unicon/customizer/homepage-section/homepage-options.php:812
+msgid "Enable / Disable Option"
+msgstr ""
+
+#: unicon/customizer/footer-section/footer-options.php:18
+msgid "Enable/Disable Bottom Footer Section Option"
+msgstr ""
+
+#: unicon/customizer/customizer.php:160
+msgid "Enable/Disable Breadcrumb Menu"
+msgstr ""
+
+#: unicon/customizer/customizer.php:133
+msgid "Enable/Disable Breadcrumb Section"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:12
+msgid "Enable/Disable Option"
+msgstr ""
+
+#: unicon/customizer/footer-section/footer-options.php:17
+msgid "Enable/Disable Option Bottom Footer"
+msgstr ""
+
+#: unicon/customizer/customizer.php:108
+msgid "Enable/Disable Theme Animations"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:13
+msgid "Enable/Disable Top Header Section Option"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:98
+msgid "Enrich your site using most popular slider - Revolution slider."
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:318
+msgid "Enter the Counter Number"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:306
+msgid "Enter the Counter Title"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:266
+msgid "Enter the Sucess Yearly "
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:254
+msgid "Enter the Yearly Sucess Percentage"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:470
+msgid "Enter the Youtube Video url"
+msgstr ""
+
+#: welcome/welcome.php:319 welcome/welcome.php:406
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:151
+msgid "Facebook url"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:157
+msgid "Feature Section"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:19
+msgid "Features"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:137
+msgid "Fifth"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:137
+msgid "First"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:309
+#: unicon/customizer/homepage-section/homepage-options.php:611
+msgid "First button label"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:320
+#: unicon/customizer/homepage-section/homepage-options.php:623
+msgid "First button link"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:253
+msgid "Flickr URL"
+msgstr ""
+
+#: functions.php:136
+#, php-format
+msgid "Footer area %d"
+msgstr ""
+
+#: unicon/customizer/footer-section/footer-options.php:7
+msgid "Footer Settings"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:137
+msgid "Forth"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:20
+msgid "Free"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:66
+msgid "Free Plugins"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:13
+msgid "FREE UPDATES FOR LIFE TIME"
+msgstr ""
+
+#: welcome/welcome.php:56 unicon/customizer/customizer.php:84
+msgid "Free vs Pro"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page"
+msgstr ""
+
+#: unicon/functions.php:1042
+msgid "Full width"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:205
+msgid "Fully WooCommerce Compatible"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:206
+msgid "Fully WooCommerce Compatible."
+msgstr ""
+
+#: unicon/customizer/customizer.php:33
+msgid "General Settings"
+msgstr ""
+
+#: welcome/welcome.php:53
+msgid "Getting Started"
+msgstr ""
+
+#: welcome/sections/getting_started.php:12
+msgid "Go to Customizer Panels"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:172
+msgid "Google Plus url"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:218
+msgid "Google will love it."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:146
+msgid ""
+"Have a review section section in the home page displaying the customer "
+"review at front."
+msgstr ""
+
+#: unicon/customizer/header-section/header-settings.php:7
+msgid "Header Settings"
+msgstr ""
+
+#: unicon/customizer/customizer.php:207
+msgid "Heading Font"
+msgstr ""
+
+#: unicon/functions.php:1142
+msgid "Home"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-settings.php:7
+msgid "Home Page Settings"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:193
+msgid "Home Section Reorder"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://accesspressthemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://accesspressthemes.com/wordpress-themes/unicon"
+msgstr ""
+
+#: welcome/sections/support.php:17
+msgid ""
+"If you are having yourself in the situation where everything on your site is "
+"running very slow, you might consider having a look at the below article "
+"where you may find useful tips and tricks to boost speed for your site."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:121
+msgid "Inbuilt Shortcodes"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:133
+msgid "Inbuilt Widgets"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:203
+msgid "Instagram URL"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:21
+#: welcome/sections/recommended_plugins.php:80
+msgid "Install and Activate"
+msgstr ""
+
+#: welcome/welcome.php:31
+msgid ""
+"Install Siteorigin Page Builder plugin to have the flexible layout features"
+msgstr ""
+
+#: welcome/welcome.php:199
+msgid "Installing Demo"
+msgstr ""
+
+#: welcome/welcome.php:40
+msgid "Instant Demo Importer"
+msgstr ""
+
+#: welcome/welcome.php:46
+msgid ""
+"Instant Demo Importer Plugin adds the feature to Import the Demo Conent with "
+"a single click."
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:14
+msgid "Keep upto date"
+msgstr ""
+
+#: unicon/functions.php:1324
+msgid "Last &raquo;"
+msgstr ""
+
+#. %s: post title
+#: unicon/core/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: unicon/functions.php:1032
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:116
+msgid "Left Sidebar Widget Area"
+msgstr ""
+
+#: welcome/welcome.php:121
+msgid "Lets Get Started"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:183
+msgid "LinkedIn URL"
+msgstr ""
+
+#: unicon/functions.php:604
+msgid "Lorem ipsum dolor sit amet consectetur elit"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:272
+msgid "Main Header Banner Settings"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:284
+#: unicon/customizer/homepage-section/homepage-options.php:32
+#: unicon/customizer/homepage-section/homepage-options.php:105
+#: unicon/customizer/homepage-section/homepage-options.php:215
+#: unicon/customizer/homepage-section/homepage-options.php:381
+#: unicon/customizer/homepage-section/homepage-options.php:506
+#: unicon/customizer/homepage-section/homepage-options.php:583
+#: unicon/customizer/homepage-section/homepage-options.php:684
+#: unicon/customizer/homepage-section/homepage-options.php:761
+#: unicon/customizer/homepage-section/homepage-options.php:828
+msgid "Main Title"
+msgstr ""
+
+#: unicon/functions.php:35
+#: unicon/customizer/header-section/header-options.php:45
+msgid "Mathuri Sadan, 5th floor Ravi Bhawan, Kathmandu, Nepal"
+msgstr ""
+
+#: unicon/customizer/customizer.php:215
+msgid "Menu Font"
+msgstr ""
+
+#: unicon/functions.php:38
+msgid "Mon - Fri : 08:00 - 17:00"
+msgstr ""
+
+#: welcome/sections/support.php:28
+msgid "More WordPress Resources"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:73
+msgid "Multiple Color Scheme"
+msgstr ""
+
+#: comments.php:65
+msgid "Name *"
+msgstr ""
+
+#: comments.php:45
+msgid "Newer Comments"
+msgstr ""
+
+#: archive.php:36 index.php:41 search.php:36
+msgid "Next"
+msgstr ""
+
+#: unicon/functions.php:1323
+msgid "Next &rsaquo"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:4
+msgid "No renewal needed"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: comments.php:44
+msgid "Older Comments"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:3
+msgid "ONE TIME PAYMENT"
+msgstr ""
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:79
+msgid "Opening Time"
+msgstr ""
+
+#: welcome/sections/support.php:22
+msgid "Optimize Images for The Best Web Performance"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:800
+msgid "Our Blogs Section"
+msgstr ""
+
+#: unicon/functions.php:870
+#: unicon/customizer/homepage-section/homepage-options.php:756
+msgid "Our Partners"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:719
+msgid "Our Partners Section"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:162
+msgid "Our Service Icon"
+msgstr ""
+
+#: unicon/functions.php:544
+#: unicon/customizer/homepage-section/homepage-options.php:376
+msgid "Our Team"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:353
+msgid "Our Team Member Section"
+msgstr ""
+
+#: unicon/functions.php:690
+#: unicon/customizer/homepage-section/homepage-options.php:501
+msgid "Our Works"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:478
+msgid "Our Works Section"
+msgstr ""
+
+#: unicon/functions.php:1229
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content-single.php:48
+msgid "Pages:"
+msgstr ""
+
+#: unicon/functions.php:891
+msgid "Partner Logo"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:119
+msgid "Phone Icon"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:132
+msgid "Phone Number"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:243
+msgid "Pinterest URL"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:181
+msgid "Portfolio Section"
+msgstr ""
+
+#: unicon/core/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: unicon/core/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: unicon/core/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: unicon/functions.php:1217
+msgid "Posts tagged"
+msgstr ""
+
+#: archive.php:35 index.php:40 search.php:35
+msgid "Prev"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:26
+msgid "Preview your changes as you build your site."
+msgstr ""
+
+#: functions.php:53
+msgid "Primary"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:21
+msgid "Pro"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:10
+msgid "Pro Plugins"
+msgstr ""
+
+#: unicon/functions.php:691
+#: unicon/customizer/homepage-section/homepage-options.php:514
+msgid "Project Done"
+msgstr ""
+
+#: unicon/functions.php:758 unicon/hooks/header.php:144
+#: unicon/customizer/header-section/header-options.php:328
+#: unicon/customizer/homepage-section/homepage-options.php:631
+msgid "Purchase Now"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:25
+msgid "Quick Contact Info"
+msgstr ""
+
+#: welcome/sections/support.php:11 welcome/sections/support.php:18
+#: welcome/sections/support.php:24
+msgid "Read Full Article"
+msgstr ""
+
+#: welcome/sections/getting_started.php:6 welcome/sections/support.php:5
+msgid "Read Full Documentation"
+msgstr ""
+
+#: template-parts/content-search.php:43 template-parts/content.php:43
+#: unicon/functions.php:221 unicon/functions.php:955
+#: unicon/hooks/header.php:141
+#: unicon/customizer/header-section/header-options.php:305
+#: unicon/customizer/homepage-section/homepage-options.php:606
+msgid "Read More"
+msgstr ""
+
+#: welcome/sections/support.php:4
+#, php-format
+msgid ""
+"Read the detailed documentation of the theme. The documentation contain all "
+"the necessary information required to setup the theme %s."
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: unicon/functions.php:910
+#: unicon/customizer/homepage-section/homepage-options.php:823
+msgid "Recent"
+msgstr ""
+
+#: welcome/welcome.php:54
+msgid "Recommended Plugins"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:213
+msgid "Reddit URL"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:37
+msgid "Responsive Design"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:145
+msgid "Review Section"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:97
+msgid "Revolution Slider"
+msgstr ""
+
+#: functions.php:126
+msgid "Right Sidebar Widget Area"
+msgstr ""
+
+#: unicon/functions.php:1037
+msgid "Right Sidebar(Default)"
+msgstr ""
+
+#: unicon/hooks/hooks.php:26
+msgid "Search Results"
+msgstr ""
+
+#: unicon/functions.php:1159
+msgid "Search results for"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:137
+msgid "Second"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:332
+#: unicon/customizer/homepage-section/homepage-options.php:636
+msgid "Second button label"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:343
+#: unicon/customizer/homepage-section/homepage-options.php:648
+msgid "Second button link"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:70
+msgid "Select About Section Category"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:57
+msgid "Select About Section Page"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:854
+msgid "Select Blog Section Category"
+msgstr ""
+
+#: unicon/customizer/blog-section/blog-options.php:22
+msgid "Select Blogs Categories"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:855
+msgid "Select cateogry for Blog Section"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:409
+msgid "Select cateogry for Our Team Member Section"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:534
+msgid "Select cateogry for Our Works Section"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:712
+msgid "Select cateogry for Testimonial Section"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:408
+msgid "Select Our Team Section Category"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:533
+msgid "Select Our Works Section Category"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:178
+msgid "Select Service Page"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:240
+msgid "Select Sucess Graph Section Page"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:711
+msgid "Select Testimonial Section Category"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:217
+msgid "SEO Optimized"
+msgstr ""
+
+#: unicon/functions.php:282
+#: unicon/customizer/homepage-section/homepage-options.php:100
+msgid "Services"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:77
+msgid "Services Section"
+msgstr ""
+
+#: unicon/hooks/header.php:126
+#, php-format
+msgid "SET %s."
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:329
+msgid "Set the Counter Icon"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:120
+#: unicon/customizer/homepage-section/homepage-options.php:330
+msgid "Set the phone icon."
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:137
+msgid "Sixth"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:169
+msgid "Skill Section"
+msgstr ""
+
+#: unicon/hooks/header.php:15
+msgid "Skip to content"
+msgstr ""
+
+#: unicon/hooks/header.php:14
+msgid "Skip to navigation"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:144
+msgid "Social Icon Options"
+msgstr ""
+
+#: unicon/hooks/header.php:138
+#: unicon/customizer/header-section/header-options.php:280
+msgid "SOLUTION FOR YOUR BUSINCESS"
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: welcome/welcome.php:399
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr ""
+
+#: welcome/welcome.php:311
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: welcome/sections/support.php:16
+msgid "Speed up your WordPress Site"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:67
+#: unicon/customizer/header-section/header-options.php:95
+msgid "Start Time Icon."
+msgstr ""
+
+#: welcome/sections/getting_started.php:4
+msgid "Step 1 - Read Documentation"
+msgstr ""
+
+#: welcome/sections/getting_started.php:10
+msgid "Step 2 - Customizer Options Panel"
+msgstr ""
+
+#: welcome/sections/support.php:10
+msgid ""
+"Still having problem after reading all the documentation? No Problem!! "
+"Please create a support ticket. Our dedicated support team will help you to "
+"solve your problem"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:45
+#: unicon/customizer/homepage-section/homepage-options.php:118
+#: unicon/customizer/homepage-section/homepage-options.php:228
+#: unicon/customizer/homepage-section/homepage-options.php:394
+#: unicon/customizer/homepage-section/homepage-options.php:519
+#: unicon/customizer/homepage-section/homepage-options.php:697
+#: unicon/customizer/homepage-section/homepage-options.php:841
+msgid "Sub Title"
+msgstr ""
+
+#: unicon/functions.php:452
+#: unicon/customizer/homepage-section/homepage-options.php:210
+msgid "Sucess"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:187
+msgid "Sucess Graph Section"
+msgstr ""
+
+#: welcome/welcome.php:55
+msgid "Support"
+msgstr ""
+
+#: unicon/core/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:11
+msgid "Take Advantage of some of our Premium Plugins"
+msgstr ""
+
+#: unicon/customizer/customizer.php:176
+msgid "Template Color"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:656
+msgid "Testimonial Section"
+msgstr ""
+
+#: unicon/functions.php:811
+#: unicon/customizer/homepage-section/homepage-options.php:692
+msgid "Testimonials"
+msgstr ""
+
+#: welcome/welcome.php:145
+#, php-format
+msgid ""
+"The %s is a creative theme with elegant design perfect for business, "
+"corporate, photography, personal blog and other creative website. The theme "
+"has creative design with vibrant color and all the required sections to make "
+"a complete website. The theme is fully translation ready and built with "
+"customizer for easy setup with live preview. The Theme has creative team, "
+"testimonial, service, video and portfolio section."
+msgstr ""
+
+#: unicon/customizer/customizer.php:123
+msgid ""
+"The Breadcrumb section will be displayed in inner page as well as archive "
+"pages except in home page."
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:271
+msgid "The Main Header Banner will be displayed in home page only."
+msgstr ""
+
+#: welcome/welcome.php:151
+msgid "The Offer is limited for initial <span>100</span> purchases only"
+msgstr ""
+
+#: unicon/customizer/customizer.php:44
+msgid "Themes Colors"
+msgstr ""
+
+#: welcome/welcome.php:428
+msgid "There was an error activating $api->name"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:67
+msgid "These Free Plugins might be handy for you."
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:137
+msgid "Third"
+msgstr ""
+
+#: unicon/customizer/blog-section/blog-settings.php:8
+msgid ""
+"This setting will control your page that you create using template \"Blog "
+"Page\" "
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:49
+msgid "Translation Ready"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:233
+msgid "Tumblr URL"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:162
+msgid "Twitter url"
+msgstr ""
+
+#: unicon/customizer/customizer.php:192
+msgid "Typography Settings"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Unicon - a creative theme with elegant design perfect for business, "
+"corporate, photography, personal blog and other creative website. The theme "
+"has creative design with vibrant color and all the required sections to make "
+"a complete website. The theme is fully translation ready and built with "
+"customizer for easy setup with live preview. The Theme has creative team, "
+"testimonial, service, video and portfolio section."
+msgstr ""
+
+#. Name of the theme
+msgid "Unicon Lite"
+msgstr ""
+
+#: unicon/functions.php:752
+#: unicon/customizer/homepage-section/homepage-options.php:578
+msgid "Unicon WordPress Theme"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:8
+msgid "UNLIMITED DOMAIN LICENCE"
+msgstr ""
+
+#: welcome/welcome.php:149
+msgid "Upgrade for <del>$45</del> $32"
+msgstr ""
+
+#: welcome/welcome.php:150
+msgid "Upgrade Now"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:229
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:230
+msgid "Upgrade to pro version for additional features and better supports."
+msgstr ""
+
+#: unicon/customizer/customizer.php:148
+msgid "Upload Breadcrumb Background Image"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:571
+msgid "Upload Call To Action Bg Image"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:748
+msgid "Upload Partners Bg Image"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:791
+msgid "Upload Partners Logo"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:131
+msgid "Upload Services Area Background Image"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:9
+msgid "Use in as many website as you need"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:134
+msgid ""
+"Use the beautiful ease to use widgets in sidebars or pages using your "
+"favorite page builder plugin."
+msgstr ""
+
+#: welcome/sections/getting_started.php:11
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:297
+#: unicon/customizer/homepage-section/homepage-options.php:598
+#: unicon/customizer/homepage-section/homepage-options.php:775
+msgid "Very Short Description"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:458
+msgid "Very Short Video Description"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:439
+#: unicon/customizer/homepage-section/homepage-options.php:444
+msgid "Video Main Title"
+msgstr ""
+
+#: unicon/customizer/homepage-section/homepage-options.php:416
+msgid "Video Section"
+msgstr ""
+
+#: welcome/sections/support.php:30
+msgid "View More"
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:263
+msgid "Vimeo URL"
+msgstr ""
+
+#: welcome/sections/support.php:23
+msgid ""
+"Visual content accounts for the majority of web page sizes. Learn about "
+"different image types and their compression techniques so that you can "
+"optimize the images to have your site perform better and faster."
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:223
+msgid "VK URL"
+msgstr ""
+
+#: welcome/sections/support.php:29
+msgid ""
+"Want to learn some more on themes ? Visit the following link for more "
+"information on latest articles on themes and plugins."
+msgstr ""
+
+#: unicon/functions.php:603
+msgid "Watch Our Intro Video"
+msgstr ""
+
+#: unicon/functions.php:204
+#: unicon/customizer/homepage-section/homepage-options.php:40
+msgid "We Are Goahead"
+msgstr ""
+
+#: welcome/welcome.php:130
+msgid "Welcome"
+msgstr ""
+
+#: welcome/welcome.php:144
+#, php-format
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: welcome/welcome.php:120
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! Please make sure you visit our <a "
+"href=\"%2$s\">Welcome page</a> to get started with %1$s."
+msgstr ""
+
+#: unicon/functions.php:283
+#: unicon/customizer/homepage-section/homepage-options.php:113
+msgid "What We Do"
+msgstr ""
+
+#: unicon/functions.php:453
+#: unicon/customizer/homepage-section/homepage-options.php:223
+msgid "Yearly Graph"
+msgstr ""
+
+#: unicon/functions.php:1270
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: unicon/customizer/header-section/header-options.php:193
+msgid "Youtube URL"
+msgstr ""

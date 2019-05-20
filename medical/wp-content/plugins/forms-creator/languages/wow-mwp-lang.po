@@ -1,0 +1,1046 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wow_Marketings v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-07-05 20:11+0300\n"
+"Last-Translator: Wow-Company\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+# @ wow-mwp-lang 
+msgid "Add email to the list"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Add new"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Alignment"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Also enable closing on"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Animated display"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Animation duration"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Auto-close modal window"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Background color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Background hover color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Background image"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Block user from singup"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Border color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Border radius"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Border width"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Bottom position"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Button background color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Button background hover color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Button color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Button disabled color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Button hover color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Button position"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Button text color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Button text size"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Button text"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Button width"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Button's text"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Button's width"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Call to share text"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Check out awesome wordpress plugins by DayesDesign at http//wow-mwp-lang.com/"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Close Button"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Close confirmation text after sending in"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Comment field"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Confirmation first text color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Confirmation first text size"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Confirmation second text color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Confirmation second text size"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Confirmation text color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Confirmation text size"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Confirmation text"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Content"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Content"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Countdown"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Countdown height"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Countdown settings"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Countdown type"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Countdown width"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Day"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "days"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Delay"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Delete"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Delimiter font size"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Delimiter text color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Digits text color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Display"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Display an e-mail form"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Display button"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Don’t show on screens less than"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Duplicate"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Edit"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Email field"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Email from"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Email settings"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Email settings to user"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Emails"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Enable FB custom share text"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Error text color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Error text size"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Error text"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Example #anchor-link"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Facebook app id"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Facebook share text"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Facebook sharing"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Facebook uses your site's regular metadata or facebook specific metadata"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "First text color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "First text size"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "First text"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Font size"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Form align"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Form background color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Form margin bottom"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Form margin left"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Form margin right"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Form margin top"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Form padding bottom"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Form padding left"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Form padding right"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Form padding top"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Form width"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Forms"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Form's field background color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Form's field border color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Form's field border radius"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Form's field border"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Get PRO version!"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Goal-completed users"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Guess what? Great news! We will give away a lifetime premium account to those who bring 3 friends to sign up!"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Height"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Hide days"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Hide hours"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Hide minutes"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Hide seconds"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "How many triggers you want"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Icon color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Icon height"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Icon custom"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "If you want to use a custom text, you can enable it, and you will need to setup a FB app with your link and specify the App ID below. See instructions"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Input height"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Invites taken"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Item position"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Item type"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Item width"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Lead directly to the form"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Learn more about PRO version features"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Left position"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "License"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Link text size"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Link"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "List"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Mail subject"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Make sure to set modal window to 'Click on a link or button' and 'All posts and pages'"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Modal Windows"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Month"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "ms"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Name"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Name field"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Name"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Number font size"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Number of invites"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Open in a new window"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Order"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Overlay Esc"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Overlay"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "p"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Padding bottom"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Padding left & right"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Padding left"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Padding right"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Padding top & bottom"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Padding top"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Padding"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Phone field"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Placeholder text color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Position"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "PRO Version"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Referrals required"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Reset in"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Right position"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Second text color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Second text size"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Second text"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Select a type"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Send mail to admin"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Send mail to user"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Send to"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Share link"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Sharing"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Shortcode"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show a modal window"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show button for modal window"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show modal window"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show modal window"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show only once? (use cookies)"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show settings"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show title for Days"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show title for Hours"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show title for Minutes"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show title for Seconds"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Side Menu"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Signed up users "
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Signup"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Size"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Social Networks"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Specify anchor (Optional)"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Specify the amount of days the user will not be allowed to enter additional emails (to eliminate cheating). Minimum 1 day."
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Style"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Style of the modal window"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Style settings"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Text color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Text from"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Textarea height"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Thank you for signing up"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "The plugin contains"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Title font size"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Title text color"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Top position"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Trigger settings"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Twitter share text"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Type"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Type of delimeter"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Viral Signup"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Width"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Year"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "You can specify the slots that have already been 'taken', to demonstrate social proof"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Z-index"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Countdowns" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Day" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "To date" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Time" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Time with cookies" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Amount" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Amount with cookies" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "down" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "up" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Direction" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Starting number" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "End number" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Time increment mode" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "stable" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "random" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Increment every" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Increment min" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Increment max" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Amount increment mode" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Amount" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Amount min" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Amount max" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Trigger" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "no" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show content" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Redirect" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show modal window" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Hide modal window" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show block" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Hide block" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Modal window ID" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Type Selector" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Enter selector" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "E.g." 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Preview" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Save" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Activate License " 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "left" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "center" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "right" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "seconds" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Fixed" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Absolute" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "top" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "bottom" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Enter IDs, separated by comma (e.g.: 930, 539, 850)" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Where shortcode is inserted" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "All posts and pages" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "All posts" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "All pages" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Posts with certain IDs" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Pages with certain IDs" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "All posts. except..." 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "All pages, except..." 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "When the page loads" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Click on a link (with id)" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "When the window is scrolled" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "When the user tries to leave the page" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Click on a link (with an #anchor link)" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Add an <b>id='wow-modal-id-X'</b> to the link, where X is the number of the modal window" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Add an anchor to the link: <b>a href='#wow-modal-id-X'</b>, where X is the number of the modal window" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Menu Item" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "link" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "modal window" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "share" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "print" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "back-to-top" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Open in a new window" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Modal window ID" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "e.g." 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Icon" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "custom" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "image link" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show item" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Signed up users" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "limited signup + viral sharing" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "limited signup" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "simple signup + viral sharing" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "simple signup" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Left" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Center" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Right" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "yes" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Want to know about updates to this plugin without having to log into your site every time? Want to know about other cool plugins we make? Want to get attractive DISCOUNTS for the premium extensions? Add your email and we'll add you to our very rare mail-outs." 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Email Address" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Sign Up" 
+msgstr ""
+# @ wow-mwp-lang 
+msgid "News" 
+msgstr ""
+# @ wow-mwp-lang
+msgid "for Countdown"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "for Form"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "List email"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Plugin License Options"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "License Key"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Enter your license key"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "for Herd Effect's"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Title"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Text"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Use [variables] to construct your herd effect message"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Hide close button"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Auto-close"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Appearance mode"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show every"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show min every"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show max every"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Name, City, Amount"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Names"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Cities"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Enter Names, separated by comma"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Enter Cities, separated by comma"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show herd effect"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "for Viral Signup"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Signed up"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Goal-completed"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Item"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Keep it extended"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Skype logine"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Available actions"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Actions"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Choose"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Chat"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Call"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Videocall"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Voice message"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Add to contacts"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Information"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Send file"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Icons size"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Skype status"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Style of skype"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Custom text"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Status hover text"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Status title"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Online"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Away"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Do Not Disturb"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Offline"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Unknown"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "Show status"
+msgstr ""
+# @ wow-mwp-lang 
+msgid "General settings"
+msgstr ""
+
+
+# @ wow-mwp-lang
+msgid "Hide"
+msgstr ""
+
+# @ wow-mwp-lang
+msgid "Show"
+msgstr ""
+
+# @ wow-mwp-lang
+msgid "Update"
+msgstr ""
+
+# @ wow-mwp-lang
+msgid "Unable to create directory"
+msgstr ""
+
+# @ wow-mwp-lang
+msgid "Please create directory and set chmod 777 on folder 'asset'"
+msgstr ""
+
+# @ wow-mwp-lang
+msgid "Enter the license key to activate the plugin"
+msgstr ""

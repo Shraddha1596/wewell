@@ -1,0 +1,41 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_unicon-lite">
+    <key name="unicon_lite_main_title" />
+    <key name="unicon_lite_main_description" />
+    <key name="unicon_lite_first_button_title" />
+    <key name="unicon_lite_second_button_title" />
+    <key name="unicon_lite_map_address" />
+    <key name="unicon_lite_start_open_time" />
+    <key name="unicon_lite_email_title" />
+    <key name="unicon_lite_phone_number" />
+    <key name="unicon_lite_about_section_main_title" />
+    <key name="unicon_lite_about_section_sub_title" />
+    <key name="unicon_lite_services_section_main_title" />
+    <key name="unicon_lite_services_section_sub_title" />
+    <key name="unicon_lite_sucess_graph_section_main_title" />
+    <key name="unicon_lite_sucess_graph_section_sub_title" />
+    <key name="unicon_lite_counter_section_title_1" />
+    <key name="unicon_lite_counter_section_title_2" />
+    <key name="unicon_lite_counter_section_title_3" />
+    <key name="unicon_lite_counter_section_title_4" />
+    <key name="unicon_lite_team_section_main_title" />
+    <key name="unicon_lite_team_section_sub_title" />
+    <key name="unicon_lite_video_section_main_title" />
+    <key name="unicon_lite_video_description" />
+    <key name="unicon_lite_works_section_main_title" />
+    <key name="unicon_lite_works_section_sub_title" />
+    <key name="unicon_lite_call_to_action_section_main_title" />
+    <key name="unicon_lite_call_to_action_description" />
+    <key name="unicon_lite_call_to_action_first_button_title" />
+    <key name="unicon_lite_call_to_action_second_button_title" />
+    <key name="unicon_lite_testimonial_section_main_title" />
+    <key name="unicon_lite_testimonial_section_sub_title" />
+    <key name="unicon_lite_our_partners_section_main_title" />
+    <key name="unicon_lite_our_partners_description" />
+    <key name="unicon_lite_blog_section_main_title" />
+    <key name="unicon_lite_blog_section_sub_title" />
+    <key name="unicon_lite_footer_copyright" />
+</key>
+</admin-texts>
+</wpml-config>

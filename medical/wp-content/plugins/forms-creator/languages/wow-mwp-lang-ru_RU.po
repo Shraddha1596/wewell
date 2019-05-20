@@ -1,0 +1,1342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wow_Marketings v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-10-20 12:33+0300\n"
+"Last-Translator: Wow-Company\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wow-mwp-lang
+msgid "Add email to the list"
+msgstr "Добавлять email в список"
+
+# @ wow-mwp-lang
+msgid "Add new"
+msgstr "Добавить"
+
+# @ wow-mwp-lang
+msgid "Alignment"
+msgstr "Выравнивание"
+
+# @ wow-mwp-lang
+msgid "Also enable closing on"
+msgstr "Закрывать при клике (нажатию)"
+
+# @ wow-mwp-lang
+msgid "Animated display"
+msgstr "Анимированый показ"
+
+# @ wow-mwp-lang
+msgid "Animation duration"
+msgstr "Продолжительность анимации"
+
+# @ wow-mwp-lang
+msgid "Auto-close modal window"
+msgstr "Авто-закрытие модального окна"
+
+# @ wow-mwp-lang
+msgid "Background color"
+msgstr "Фоновый цвет"
+
+# @ wow-mwp-lang
+msgid "Background hover color"
+msgstr "Фоновый цвет при наведении"
+
+# @ wow-mwp-lang
+msgid "Background image"
+msgstr "Фоновая картинка"
+
+# @ wow-mwp-lang
+msgid "Block user from singup"
+msgstr "Блокировка пользователя для подписки"
+
+# @ wow-mwp-lang
+msgid "Border color"
+msgstr "Цвет границ"
+
+# @ wow-mwp-lang
+msgid "Border radius"
+msgstr "Радиус границ"
+
+# @ wow-mwp-lang
+msgid "Border width"
+msgstr "Ширина границ"
+
+# @ wow-mwp-lang
+msgid "Bottom position"
+msgstr "Нижнее позиционирование"
+
+# @ wow-mwp-lang
+msgid "Button background color"
+msgstr "Фоновый цвет кнопки"
+
+# @ wow-mwp-lang
+msgid "Button background hover color"
+msgstr "Фонвый цвет кнопки при наведении"
+
+# @ wow-mwp-lang
+msgid "Button color"
+msgstr "Цвет кнопки"
+
+# @ wow-mwp-lang
+msgid "Button disabled color"
+msgstr "Цвет неактивной кнопки"
+
+# @ wow-mwp-lang
+msgid "Button hover color"
+msgstr "Цвет кнопки при наведении"
+
+# @ wow-mwp-lang
+msgid "Button position"
+msgstr "Позиция кнопки"
+
+# @ wow-mwp-lang
+msgid "Button text color"
+msgstr "Цвет текста кнопки"
+
+# @ wow-mwp-lang
+msgid "Button text size"
+msgstr "Размер текста кнопки"
+
+# @ wow-mwp-lang
+msgid "Button text"
+msgstr "Текст кнопки"
+
+# @ wow-mwp-lang
+msgid "Button width"
+msgstr "Ширина кнопки"
+
+# @ wow-mwp-lang
+msgid "Button's text"
+msgstr "Текст кнопки"
+
+# @ wow-mwp-lang
+msgid "Button's width"
+msgstr "Ширина кнопки"
+
+# @ wow-mwp-lang
+msgid "Call to share text"
+msgstr "Текст призыва к расшариванию"
+
+# @ wow-mwp-lang
+msgid "Check out awesome wordpress plugins by DayesDesign at http//wow-mwp-lang.com/"
+msgstr "Попробуйте удивительные плагины от DayesDesign на http//wow-mwp-lang.com/"
+
+# @ wow-mwp-lang
+msgid "Close Button"
+msgstr "Кновка Закрыть"
+
+# @ wow-mwp-lang
+msgid "Close confirmation text after sending in"
+msgstr "Текст сообщение после отправки почты"
+
+# @ wow-mwp-lang
+msgid "Color"
+msgstr "Цвет"
+
+# @ wow-mwp-lang
+msgid "Comment field"
+msgstr "Поле комментарий"
+
+# @ wow-mwp-lang
+msgid "Confirmation first text color"
+msgstr "Цвет текста первой части сообщения"
+
+# @ wow-mwp-lang
+msgid "Confirmation first text size"
+msgstr "Размер текста первой части сообщения"
+
+# @ wow-mwp-lang
+msgid "Confirmation second text color"
+msgstr "Цвет текста второй части сообщения"
+
+# @ wow-mwp-lang
+msgid "Confirmation second text size"
+msgstr "Размер текста второй части сообщения"
+
+# @ wow-mwp-lang
+msgid "Confirmation text color"
+msgstr "Цвет текста сообщения"
+
+# @ wow-mwp-lang
+msgid "Confirmation text size"
+msgstr "Размер текста сообщения"
+
+# @ wow-mwp-lang
+msgid "Confirmation text"
+msgstr "Текст сообщения"
+
+# @ wow-mwp-lang
+msgid "Content"
+msgstr "Содержание"
+
+# @ wow-mwp-lang
+msgid "Countdown"
+msgstr "Таймер"
+
+# @ wow-mwp-lang
+msgid "Countdown height"
+msgstr "Высота таймера"
+
+# @ wow-mwp-lang
+msgid "Countdown settings"
+msgstr "Настройки таймера"
+
+# @ wow-mwp-lang
+msgid "Countdown type"
+msgstr "Тип таймера"
+
+# @ wow-mwp-lang
+msgid "Countdown width"
+msgstr "Ширина таймера"
+
+# @ wow-mwp-lang
+msgid "Day"
+msgstr "День"
+
+# @ wow-mwp-lang
+msgid "days"
+msgstr "дней"
+
+# @ wow-mwp-lang
+msgid "Delay"
+msgstr "Задержка"
+
+# @ wow-mwp-lang
+msgid "Delete"
+msgstr "Удалить"
+
+# @ wow-mwp-lang
+msgid "Delimiter font size"
+msgstr "Размер разделителя"
+
+# @ wow-mwp-lang
+msgid "Delimiter text color"
+msgstr "Цвет разделителя"
+
+# @ wow-mwp-lang
+msgid "Digits text color"
+msgstr "Цвет цифр"
+
+# @ wow-mwp-lang
+msgid "Display"
+msgstr "Отображение"
+
+# @ wow-mwp-lang
+msgid "Display an e-mail form"
+msgstr "Показать форму отправки письма"
+
+# @ wow-mwp-lang
+msgid "Display button"
+msgstr "Показать кнопку"
+
+# @ wow-mwp-lang
+msgid "Don’t show on screens less than"
+msgstr "Не показывать на экранах меньше"
+
+# @ wow-mwp-lang
+msgid "Duplicate"
+msgstr "Копировать"
+
+# @ wow-mwp-lang
+msgid "Edit"
+msgstr "Редактировать"
+
+# @ wow-mwp-lang
+msgid "Email field"
+msgstr "Поле email"
+
+# @ wow-mwp-lang
+msgid "Email from"
+msgstr "Email от"
+
+# @ wow-mwp-lang
+msgid "Email settings"
+msgstr "Настройки почты"
+
+# @ wow-mwp-lang
+msgid "Email settings to user"
+msgstr "Настройки почты для пользователя"
+
+# @ wow-mwp-lang
+msgid "Emails"
+msgstr ""
+
+# @ wow-mwp-lang
+msgid "Enable FB custom share text"
+msgstr "Включить произвольный текст для FB"
+
+# @ wow-mwp-lang
+msgid "Error text color"
+msgstr "Цвет текста ошибки"
+
+# @ wow-mwp-lang
+msgid "Error text size"
+msgstr "Размер текста ошибки"
+
+# @ wow-mwp-lang
+msgid "Error text"
+msgstr "Текст ошибки"
+
+# @ wow-mwp-lang
+msgid "Example #anchor-link"
+msgstr "Пример, #anchor-link"
+
+# @ wow-mwp-lang
+msgid "Facebook app id"
+msgstr ""
+
+# @ wow-mwp-lang
+msgid "Facebook share text"
+msgstr "Facebook текст поделиться"
+
+# @ wow-mwp-lang
+msgid "Facebook sharing"
+msgstr "Facebook поделиться"
+
+# @ wow-mwp-lang
+msgid "Facebook uses your site's regular metadata or facebook specific metadata"
+msgstr "Facebook использует регулярные метаданные или facebook метаданные с вашего сайта"
+
+# @ wow-mwp-lang
+msgid "First text color"
+msgstr "Цвет первого текста"
+
+# @ wow-mwp-lang
+msgid "First text size"
+msgstr "Размер первого текста"
+
+# @ wow-mwp-lang
+msgid "First text"
+msgstr "Первый текст"
+
+# @ wow-mwp-lang
+msgid "Font size"
+msgstr "Размер шрифта"
+
+# @ wow-mwp-lang
+msgid "Form align"
+msgstr "Выравниванеи формы"
+
+# @ wow-mwp-lang
+msgid "Form background color"
+msgstr "Фоновый цвет формы"
+
+# @ wow-mwp-lang
+msgid "Form margin bottom"
+msgstr "Внешний отступ снизу"
+
+# @ wow-mwp-lang
+msgid "Form margin left"
+msgstr "Внешний отступ слева"
+
+# @ wow-mwp-lang
+msgid "Form margin right"
+msgstr "Внешний отступ справа"
+
+# @ wow-mwp-lang
+msgid "Form margin top"
+msgstr "Внешний отступ сверху"
+
+# @ wow-mwp-lang
+msgid "Form padding bottom"
+msgstr "Внутренний отступ снизу"
+
+# @ wow-mwp-lang
+msgid "Form padding left"
+msgstr "Внутренний отступ слева"
+
+# @ wow-mwp-lang
+msgid "Form padding right"
+msgstr "Внутренний отступ справа"
+
+# @ wow-mwp-lang
+msgid "Form padding top"
+msgstr "Внутренний отступ  сверху"
+
+# @ wow-mwp-lang
+msgid "Form width"
+msgstr "Ширина формы"
+
+# @ wow-mwp-lang
+msgid "Forms"
+msgstr "Формы"
+
+# @ wow-mwp-lang
+msgid "Form's field background color"
+msgstr "Цвет фона полей формы"
+
+# @ wow-mwp-lang
+msgid "Form's field border color"
+msgstr "Цвет границ полей формы"
+
+# @ wow-mwp-lang
+msgid "Form's field border radius"
+msgstr "Радиус полей формы"
+
+# @ wow-mwp-lang
+msgid "Form's field border"
+msgstr "Граница полей формы"
+
+# @ wow-mwp-lang
+msgid "Get PRO version!"
+msgstr "Получить PRO версию!"
+
+# @ wow-mwp-lang
+msgid "Goal-completed users"
+msgstr "Достижение цели"
+
+# @ wow-mwp-lang
+msgid "Guess what? Great news! We will give away a lifetime premium account to those who bring 3 friends to sign up!"
+msgstr ""
+
+# @ wow-mwp-lang
+msgid "Height"
+msgstr "Высота"
+
+# @ wow-mwp-lang
+msgid "Hide days"
+msgstr "Скрыть дни"
+
+# @ wow-mwp-lang
+msgid "Hide hours"
+msgstr "Скрыть часы"
+
+# @ wow-mwp-lang
+msgid "Hide minutes"
+msgstr "Скрыть минуты"
+
+# @ wow-mwp-lang
+msgid "Hide seconds"
+msgstr "Скрыть секунды"
+
+# @ wow-mwp-lang
+msgid "How many triggers you want"
+msgstr "Выерите количество целей"
+
+# @ wow-mwp-lang
+msgid "Icon color"
+msgstr "Цвет иконки"
+
+# @ wow-mwp-lang
+msgid "Icon height"
+msgstr "Высота иконки"
+
+# @ wow-mwp-lang
+msgid "Icon custom"
+msgstr "Собственная иконка"
+
+# @ wow-mwp-lang
+msgid "If you want to use a custom text, you can enable it, and you will need to setup a FB app with your link and specify the App ID below. See instructions"
+msgstr "Если вы хотите использовать произвольный текст, вы можете включить его, и вам нужно будет подключить app FB с вашей ссылкой и указать идентификатор приложения ниже. Смотрите инструкции"
+
+# @ wow-mwp-lang
+msgid "Input height"
+msgstr "Высота поля"
+
+# @ wow-mwp-lang
+msgid "Invites taken"
+msgstr "Приглашения приняты"
+
+# @ wow-mwp-lang
+msgid "Item position"
+msgstr "Позиция пункта меню"
+
+# @ wow-mwp-lang
+msgid "Item type"
+msgstr "Тип пункта меню"
+
+# @ wow-mwp-lang
+msgid "Item width"
+msgstr "Ширина пункта меню"
+
+# @ wow-mwp-lang
+msgid "Lead directly to the form"
+msgstr "Перенаправление к форме"
+
+# @ wow-mwp-lang
+msgid "Learn more about PRO version features"
+msgstr "Подробнее о версии  PRO "
+
+# @ wow-mwp-lang
+msgid "Left position"
+msgstr "Позиционирование слева"
+
+# @ wow-mwp-lang
+msgid "License"
+msgstr "Лицензия"
+
+# @ wow-mwp-lang
+msgid "Link text size"
+msgstr "Размер текста ссылки"
+
+# @ wow-mwp-lang
+msgid "Link"
+msgstr "Ссылка"
+
+# @ wow-mwp-lang
+msgid "List"
+msgstr "Список"
+
+# @ wow-mwp-lang
+msgid "Mail subject"
+msgstr "Тема письма"
+
+# @ wow-mwp-lang
+msgid "Make sure to set modal window to 'Click on a link or button' and 'All posts and pages'"
+msgstr "Убедитесь в том, что в модальном окне установлен его показ при  \"Нажатие на кнопку\" и \"Все записи и страницы\""
+
+# @ wow-mwp-lang
+msgid "Modal Windows"
+msgstr "Модальные Окна"
+
+# @ wow-mwp-lang
+msgid "Month"
+msgstr "Месяц"
+
+# @ wow-mwp-lang
+msgid "ms"
+msgstr "мс"
+
+# @ wow-mwp-lang
+msgid "Name field"
+msgstr "Поле Имя"
+
+# @ wow-mwp-lang
+msgid "Name"
+msgstr "Название"
+
+# @ wow-mwp-lang
+msgid "Number font size"
+msgstr "Размер цифр"
+
+# @ wow-mwp-lang
+msgid "Number of invites"
+msgstr "Количество приглашений"
+
+# @ wow-mwp-lang
+msgid "Open in a new window"
+msgstr "Открыть в новом окне"
+
+# @ wow-mwp-lang
+msgid "Order"
+msgstr "Порядок"
+
+# @ wow-mwp-lang
+msgid "Overlay Esc"
+msgstr ""
+
+# @ wow-mwp-lang
+msgid "Overlay"
+msgstr "Фон"
+
+# @ wow-mwp-lang
+msgid "p"
+msgstr ""
+
+# @ wow-mwp-lang
+msgid "Padding bottom"
+msgstr "Отступ снизу"
+
+# @ wow-mwp-lang
+msgid "Padding left & right"
+msgstr "Отступ слева и справа"
+
+# @ wow-mwp-lang
+msgid "Padding left"
+msgstr "Отступ слева"
+
+# @ wow-mwp-lang
+msgid "Padding right"
+msgstr "Отступ справа"
+
+# @ wow-mwp-lang
+msgid "Padding top & bottom"
+msgstr "Отступ сверху и снизу"
+
+# @ wow-mwp-lang
+msgid "Padding top"
+msgstr "Отступ сверху"
+
+# @ wow-mwp-lang
+msgid "Padding"
+msgstr "Отступ"
+
+# @ wow-mwp-lang
+msgid "Phone field"
+msgstr "Поле телефон"
+
+# @ wow-mwp-lang
+msgid "Placeholder text color"
+msgstr "Цвет текста подсказки"
+
+# @ wow-mwp-lang
+msgid "Position"
+msgstr "Позиция"
+
+# @ wow-mwp-lang
+msgid "PRO Version"
+msgstr "PRO Версия"
+
+# @ wow-mwp-lang
+msgid "Referrals required"
+msgstr "Необходимо реффералов"
+
+# @ wow-mwp-lang
+msgid "Reset in"
+msgstr "Сбросить"
+
+# @ wow-mwp-lang
+msgid "Right position"
+msgstr "Позиционирование справа"
+
+# @ wow-mwp-lang
+msgid "Second text color"
+msgstr "Цвет второго текста"
+
+# @ wow-mwp-lang
+msgid "Second text size"
+msgstr "Размер второго текста"
+
+# @ wow-mwp-lang
+msgid "Second text"
+msgstr "Второй текст"
+
+# @ wow-mwp-lang
+msgid "Select a type"
+msgstr "Выбрать тип"
+
+# @ wow-mwp-lang
+msgid "Send mail to admin"
+msgstr "Отправить почту администратору"
+
+# @ wow-mwp-lang
+msgid "Send mail to user"
+msgstr "Отправить почту пользователю"
+
+# @ wow-mwp-lang
+msgid "Send to"
+msgstr "Отправить"
+
+# @ wow-mwp-lang
+msgid "Share link"
+msgstr "Ссылка поделиться"
+
+# @ wow-mwp-lang
+msgid "Sharing"
+msgstr "Поделиться"
+
+# @ wow-mwp-lang
+msgid "Shortcode"
+msgstr "Шорткод"
+
+# @ wow-mwp-lang
+msgid "Show a modal window"
+msgstr "Показать модальное окно"
+
+# @ wow-mwp-lang
+msgid "Show button for modal window"
+msgstr "Показать кнопку для модального окна"
+
+# @ wow-mwp-lang
+msgid "Show modal window"
+msgstr "Показать модальное окно"
+
+# @ wow-mwp-lang
+msgid "Show only once? (use cookies)"
+msgstr "Показать единожды? (использовать куки)"
+
+# @ wow-mwp-lang
+msgid "Show settings"
+msgstr "Настройка показа"
+
+# @ wow-mwp-lang
+msgid "Show title for Days"
+msgstr "Показать заголовок для Дней"
+
+# @ wow-mwp-lang
+msgid "Show title for Hours"
+msgstr "Показать заголовок для Часов"
+
+# @ wow-mwp-lang
+msgid "Show title for Minutes"
+msgstr "Показать заголовок для Минут"
+
+# @ wow-mwp-lang
+msgid "Show title for Seconds"
+msgstr "Показать заголовок для Секунд"
+
+# @ wow-mwp-lang
+msgid "Side Menu"
+msgstr "Боковое меню"
+
+# @ wow-mwp-lang
+msgid "Signed up users "
+msgstr "Подписчики"
+
+# @ wow-mwp-lang
+msgid "Signup"
+msgstr "Подписаться"
+
+# @ wow-mwp-lang
+msgid "Size"
+msgstr "Размер"
+
+# @ wow-mwp-lang
+msgid "Social Networks"
+msgstr "Социальные сети"
+
+# @ wow-mwp-lang
+msgid "Specify anchor (Optional)"
+msgstr "Спецыальный анкор (Опционально)"
+
+# @ wow-mwp-lang
+msgid "Specify the amount of days the user will not be allowed to enter additional emails (to eliminate cheating). Minimum 1 day."
+msgstr "Укажите количество дней, которое пользователь не сможет вводить email  (для устранения обмана). Минимум 1 день."
+
+# @ wow-mwp-lang
+msgid "Style"
+msgstr "Стиль"
+
+# @ wow-mwp-lang
+msgid "Style of the modal window"
+msgstr "Стиль модального окна"
+
+# @ wow-mwp-lang
+msgid "Style settings"
+msgstr "Настройка стиля"
+
+# @ wow-mwp-lang
+msgid "Text color"
+msgstr "Цвет текста"
+
+# @ wow-mwp-lang
+msgid "Text from"
+msgstr "Текст от"
+
+# @ wow-mwp-lang
+msgid "Textarea height"
+msgstr "Высота Textarea"
+
+# @ wow-mwp-lang
+msgid "Thank you for signing up"
+msgstr "Спасибо за регистрацию"
+
+# @ wow-mwp-lang
+msgid "The plugin contains"
+msgstr "Содержание плагина"
+
+# @ wow-mwp-lang
+msgid "Title font size"
+msgstr "Размер шрифта заголовка"
+
+# @ wow-mwp-lang
+msgid "Title text color"
+msgstr "Цвет текста заголовка"
+
+# @ wow-mwp-lang
+msgid "Top position"
+msgstr "Позиционирование сверху"
+
+# @ wow-mwp-lang
+msgid "Trigger settings"
+msgstr "Настройка целей"
+
+# @ wow-mwp-lang
+msgid "Twitter share text"
+msgstr "Twitter текст поделиться"
+
+# @ wow-mwp-lang
+msgid "Type"
+msgstr "Тип"
+
+# @ wow-mwp-lang
+msgid "Type of delimeter"
+msgstr "Тип разделителя"
+
+# @ wow-mwp-lang
+msgid "Viral Signup"
+msgstr "Вирусная подписка"
+
+# @ wow-mwp-lang
+msgid "Width"
+msgstr "Ширина"
+
+# @ wow-mwp-lang
+msgid "Year"
+msgstr "Год"
+
+# @ wow-mwp-lang
+msgid "You can specify the slots that have already been 'taken', to demonstrate social proof"
+msgstr "Можно указать количество занятых мест, чтобы продемонстрировать социализацию"
+
+# @ wow-mwp-lang
+msgid "Z-index"
+msgstr ""
+
+# @ wow-mwp-lang
+msgid "Countdowns"
+msgstr "Счетчики"
+
+# @ wow-mwp-lang
+msgid "To date"
+msgstr "К дате"
+
+# @ wow-mwp-lang
+msgid "Time"
+msgstr "Время"
+
+# @ wow-mwp-lang
+msgid "Time with cookies"
+msgstr "Время с куки"
+
+# @ wow-mwp-lang
+msgid "Amount"
+msgstr "Счетчик"
+
+# @ wow-mwp-lang
+msgid "Amount with cookies"
+msgstr "Счетчик с куки"
+
+# @ wow-mwp-lang
+msgid "down"
+msgstr "вниз"
+
+# @ wow-mwp-lang
+msgid "up"
+msgstr "вверх"
+
+# @ wow-mwp-lang
+msgid "Direction"
+msgstr "Направление"
+
+# @ wow-mwp-lang
+msgid "Starting number"
+msgstr "Начальное число"
+
+# @ wow-mwp-lang
+msgid "End number"
+msgstr "Конечное число"
+
+# @ wow-mwp-lang
+msgid "Time increment mode"
+msgstr "Временной режим прироста"
+
+# @ wow-mwp-lang
+msgid "stable"
+msgstr "стабильный"
+
+# @ wow-mwp-lang
+msgid "random"
+msgstr "произвольный"
+
+# @ wow-mwp-lang
+msgid "Increment every"
+msgstr "Постоянное увеличение"
+
+# @ wow-mwp-lang
+msgid "Increment min"
+msgstr "Минимальное увеличение"
+
+# @ wow-mwp-lang
+msgid "Increment max"
+msgstr "Максимальное увеличение"
+
+# @ wow-mwp-lang
+msgid "Amount increment mode"
+msgstr "Количественный режим прироста"
+
+# @ wow-mwp-lang
+msgid "Amount min"
+msgstr "Минимальное количество"
+
+# @ wow-mwp-lang
+msgid "Amount max"
+msgstr "Максимальное количество"
+
+# @ wow-mwp-lang
+msgid "Trigger"
+msgstr "Цель"
+
+# @ wow-mwp-lang
+msgid "no"
+msgstr "нет"
+
+# @ wow-mwp-lang
+msgid "Show content"
+msgstr "Показать содержание"
+
+# @ wow-mwp-lang
+msgid "Redirect"
+msgstr "Перенаправление"
+
+# @ wow-mwp-lang
+msgid "Hide modal window"
+msgstr "Скрыть модальное окно"
+
+# @ wow-mwp-lang
+msgid "Show block"
+msgstr "Показать блок"
+
+# @ wow-mwp-lang
+msgid "Hide block"
+msgstr "Скрыть блок"
+
+# @ wow-mwp-lang
+msgid "Type Selector"
+msgstr "Тип селектора"
+
+# @ wow-mwp-lang
+msgid "Enter selector"
+msgstr "Введите селектор"
+
+# @ wow-mwp-lang
+msgid "E.g."
+msgstr "Например,"
+
+# @ wow-mwp-lang
+msgid "Preview"
+msgstr "Предпросмотр"
+
+# @ wow-mwp-lang
+msgid "Save"
+msgstr "Сохранить"
+
+# @ wow-mwp-lang
+msgid "Activate License "
+msgstr "Активировать лицензию"
+
+# @ wow-mwp-lang
+msgid "left"
+msgstr "слева"
+
+# @ wow-mwp-lang
+msgid "center"
+msgstr "по центру"
+
+# @ wow-mwp-lang
+msgid "right"
+msgstr "справа"
+
+# @ wow-mwp-lang
+msgid "seconds"
+msgstr "секунд"
+
+# @ wow-mwp-lang
+msgid "Fixed"
+msgstr "Фиксированое"
+
+# @ wow-mwp-lang
+msgid "Absolute"
+msgstr "Абсолютное"
+
+# @ wow-mwp-lang
+msgid "top"
+msgstr "сверху"
+
+# @ wow-mwp-lang
+msgid "bottom"
+msgstr "снизу"
+
+# @ wow-mwp-lang
+msgid "Enter IDs, separated by comma (e.g.: 930, 539, 850)"
+msgstr "Введите ID, разделяйте запятыми (например: 930, 539, 850)"
+
+# @ wow-mwp-lang
+msgid "Where shortcode is inserted"
+msgstr "Где указан шорткод"
+
+# @ wow-mwp-lang
+msgid "All posts and pages"
+msgstr "На всех страницах и записях"
+
+# @ wow-mwp-lang
+msgid "All posts"
+msgstr "На всех записях"
+
+# @ wow-mwp-lang
+msgid "All pages"
+msgstr "На всех страницах"
+
+# @ wow-mwp-lang
+msgid "Posts with certain IDs"
+msgstr "На записях с ID"
+
+# @ wow-mwp-lang
+msgid "Pages with certain IDs"
+msgstr "На всех страница с ID"
+
+# @ wow-mwp-lang
+msgid "All posts. except..."
+msgstr "На всех записях, кроме..."
+
+# @ wow-mwp-lang
+msgid "All pages, except..."
+msgstr "На всех страницах, кроме..."
+
+# @ wow-mwp-lang
+msgid "When the page loads"
+msgstr "Когда страница загружена"
+
+# @ wow-mwp-lang
+msgid "Click on a link (with id)"
+msgstr "Клик по ссылке (с id)"
+
+# @ wow-mwp-lang
+msgid "When the window is scrolled"
+msgstr "При прокрутке страницы"
+
+# @ wow-mwp-lang
+msgid "When the user tries to leave the page"
+msgstr "Когда пользователь покидает страницу"
+
+# @ wow-mwp-lang
+msgid "Click on a link (with an #anchor link)"
+msgstr "Клик по ссылке (с анкором # )"
+
+# @ wow-mwp-lang
+msgid "Add an <b>id='wow-modal-id-X'</b> to the link, where X is the number of the modal window"
+msgstr "Добавьте <b>id='wow-modal-id-X'</b> к ссылке, где X это номер модального окна"
+
+# @ wow-mwp-lang
+msgid "Add an anchor to the link: <b>a href='#wow-modal-id-X'</b>, where X is the number of the modal window"
+msgstr "Добавьте анкор к ссылке: <b>a href='#wow-modal-id-X'</b> , где X это номер модального окна"
+
+# @ wow-mwp-lang
+msgid "Menu Item"
+msgstr "Пункты меню"
+
+# @ wow-mwp-lang
+msgid "link"
+msgstr "ссылка"
+
+# @ wow-mwp-lang
+msgid "modal window"
+msgstr "модальное окно"
+
+# @ wow-mwp-lang
+msgid "share"
+msgstr "поделиться"
+
+# @ wow-mwp-lang
+msgid "print"
+msgstr "печать"
+
+# @ wow-mwp-lang
+msgid "back-to-top"
+msgstr "наверх"
+
+# @ wow-mwp-lang
+msgid "Modal window ID"
+msgstr "Модальное окно ID"
+
+# @ wow-mwp-lang
+msgid "e.g."
+msgstr "например,"
+
+# @ wow-mwp-lang
+msgid "Icon"
+msgstr "Иконка"
+
+# @ wow-mwp-lang
+msgid "custom"
+msgstr "произвольная"
+
+# @ wow-mwp-lang
+msgid "image link"
+msgstr "ссылка на картинку"
+
+# @ wow-mwp-lang
+msgid "Show item"
+msgstr "Показать пункт"
+
+# @ wow-mwp-lang
+msgid "Signed up users"
+msgstr "Подписчики"
+
+# @ wow-mwp-lang
+msgid "limited signup + viral sharing"
+msgstr "ограниченая подписка + вирусное расшаривание"
+
+# @ wow-mwp-lang
+msgid "limited signup"
+msgstr "ограниченая подписка"
+
+# @ wow-mwp-lang
+msgid "simple signup + viral sharing"
+msgstr "простая подписка + вирусное расшаривание"
+
+# @ wow-mwp-lang
+msgid "simple signup"
+msgstr "простая подписка"
+
+# @ wow-mwp-lang
+msgid "Left"
+msgstr "слева"
+
+# @ wow-mwp-lang
+msgid "Center"
+msgstr "по центру"
+
+# @ wow-mwp-lang
+msgid "Right"
+msgstr "справа"
+
+# @ wow-mwp-lang
+msgid "yes"
+msgstr "да"
+
+# @ wow-mwp-lang
+msgid "Want to know about updates to this plugin without having to log into your site every time? Want to know about other cool plugins we make? Want to get attractive DISCOUNTS for the premium extensions? Add your email and we'll add you to our very rare mail-outs."
+msgstr "Хотите быть в курсе последних обновлений плагина, без необходимости посещения сайта? Хотите больше узнавать о других плагинах, которые мы создаем? Хотите получать привлекательные скидки на премиум плагины? Подпишитесь, и мы добавим вас в наш список друзей."
+
+# @ wow-mwp-lang
+msgid "Email Address"
+msgstr "Email Почта"
+
+# @ wow-mwp-lang
+msgid "Sign Up"
+msgstr "Подписаться"
+
+# @ wow-mwp-lang
+msgid "News"
+msgstr "Новости"
+
+# @ wow-mwp-lang
+msgid "for Countdown"
+msgstr "для Счетчика"
+
+# @ wow-mwp-lang
+msgid "for Form"
+msgstr "для Формы"
+
+# @ wow-mwp-lang
+msgid "List email"
+msgstr "Список адресов"
+
+# @ wow-mwp-lang
+msgid "Plugin License Options"
+msgstr "Настройки Лицензии"
+
+# @ wow-mwp-lang
+msgid "License Key"
+msgstr "Лицензионный ключ"
+
+# @ wow-mwp-lang
+msgid "Enter your license key"
+msgstr "Введите лицензионный ключ"
+
+# @ wow-mwp-lang
+msgid "for Herd Effect"
+msgstr "для Стадного эффекта"
+
+# @ wow-mwp-lang
+msgid "Title"
+msgstr "Заголовок"
+
+# @ wow-mwp-lang
+msgid "Text"
+msgstr "Текст"
+
+# @ wow-mwp-lang
+msgid "Use [variables] to construct your herd effect message"
+msgstr "Используйте [переменные], чтобы создать сообщение стадного эффекта"
+
+# @ wow-mwp-lang
+msgid "Hide close button"
+msgstr "Спрятать кнопку закрытия"
+
+# @ wow-mwp-lang
+msgid "Auto-close"
+msgstr "Автозакрытие"
+
+# @ wow-mwp-lang
+msgid "Appearance mode"
+msgstr "Настройка показа"
+
+# @ wow-mwp-lang
+msgid "Show every"
+msgstr "Показывать через каждые"
+
+# @ wow-mwp-lang
+msgid "Show min every"
+msgstr "Показать минимум через"
+
+# @ wow-mwp-lang
+msgid "Show max every"
+msgstr "Показать максимум через"
+
+# @ wow-mwp-lang
+msgid "Name, City, Amount"
+msgstr "Имя, Город, Сумма"
+
+# @ wow-mwp-lang
+msgid "Names"
+msgstr "Имена"
+
+# @ wow-mwp-lang
+msgid "Cities"
+msgstr "Города"
+
+# @ wow-mwp-lang
+msgid "Enter Names, separated by comma"
+msgstr "Введите имена, через запятую"
+
+# @ wow-mwp-lang
+msgid "Enter Cities, separated by comma"
+msgstr "Введите Города, через запятую"
+
+# @ wow-mwp-lang
+msgid "Show herd effect"
+msgstr "Показывать стадный эффект"
+
+# @ wow-mwp-lang
+msgid "for Viral Signup"
+msgstr "для Вирусной Подписки"
+
+# @ wow-mwp-lang
+msgid "Signed up"
+msgstr "Подписчики"
+
+# @ wow-mwp-lang
+msgid "Goal-completed"
+msgstr "Достигшие"
+
+# @ wow-mwp-lang
+msgid "Item"
+msgstr "Пункт"
+
+# @ wow-mwp-lang
+msgid "Keep it extended"
+msgstr "В режиме открыт"
+
+# @ wow-mwp-lang
+msgid "Skype logine"
+msgstr "Логин Skype"
+
+# @ wow-mwp-lang
+msgid "Available actions"
+msgstr "Доступные действия"
+
+# @ wow-mwp-lang
+msgid "Actions"
+msgstr "Действия"
+
+# @ wow-mwp-lang
+msgid "Choose"
+msgstr "Выбор"
+
+# @ wow-mwp-lang
+msgid "Chat"
+msgstr "Чат"
+
+# @ wow-mwp-lang
+msgid "Call"
+msgstr "Звонок"
+
+# @ wow-mwp-lang
+msgid "Videocall"
+msgstr "Видеозвонок"
+
+# @ wow-mwp-lang
+msgid "Voice message"
+msgstr "Голосовое сообщение"
+
+# @ wow-mwp-lang
+msgid "Add to contacts"
+msgstr "Добавить в контакты"
+
+# @ wow-mwp-lang
+msgid "Information"
+msgstr "Информация"
+
+# @ wow-mwp-lang
+msgid "Send file"
+msgstr "Отправить файл"
+
+# @ wow-mwp-lang
+msgid "Icons size"
+msgstr "Размер иконки"
+
+# @ wow-mwp-lang
+msgid "Skype status"
+msgstr "Статус Skype"
+
+# @ wow-mwp-lang
+msgid "Style of skype"
+msgstr "Стили Skype"
+
+# @ wow-mwp-lang
+msgid "Custom text"
+msgstr "Произвольный текст"
+
+# @ wow-mwp-lang
+msgid "Status hover text"
+msgstr "Текст статуса"
+
+# @ wow-mwp-lang
+msgid "Status title"
+msgstr "Заголовок статуса"
+
+# @ wow-mwp-lang
+msgid "Online"
+msgstr "Онлайн"
+
+# @ wow-mwp-lang
+msgid "Away"
+msgstr "Нет на месте"
+
+# @ wow-mwp-lang
+msgid "Do Not Disturb"
+msgstr "Не беспокоить"
+
+# @ wow-mwp-lang
+msgid "Offline"
+msgstr "Оффлайн"
+
+# @ wow-mwp-lang
+msgid "Unknown"
+msgstr "Неизвестно"
+
+# @ wow-mwp-lang
+msgid "Show status"
+msgstr "Показ статуса"
+
+# @ wow-mwp-lang
+msgid "General settings"
+msgstr "Настройки"
+
+# @ wow-mwp-lang
+msgid "Hide"
+msgstr "Спрятать"
+
+# @ wow-mwp-lang
+msgid "Show"
+msgstr "Показать"
+
+# @ wow-mwp-lang
+msgid "Update"
+msgstr "Обновить"
+
+# @ wow-mwp-lang
+msgid "Unable to create directory"
+msgstr "Невозможно создать директорию"
+
+# @ wow-mwp-lang
+msgid "Please create directory and set chmod 777 on folder 'asset'"
+msgstr "Создайте директорию и установите права доступа (chmod) 777 на папку 'asset'"
+
+# @ wow-mwp-lang
+msgid "Enter the license key to activate the plugin"
+msgstr "Введите лицензионный ключ, чтобы активировать плагин"

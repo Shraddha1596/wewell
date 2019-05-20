@@ -1,0 +1,127 @@
+#wpbiker-form-parent-1 {
+	width: 400px;
+	margin:0 auto;	
+}
+#wpbiker-form-id-1 { 	
+	font-size: 15px; !important;
+	padding: 0px 40px;
+	background: rgba(255,255,255,0); 
+	margin: 10px 0px;
+	border-radius: 5px;
+	border: 0px solid #ffffff;
+	 	overflow: auto
+}
+#wpbiker-form-id-1 label{
+	font-size: 18px;
+	color: #000;
+	display:block;
+	text-align:left;
+}
+#wpbiker-form-id-1 span{	
+	display:block;
+	line-height:1.8em;	
+}
+#wpbiker-form-id-1 input[type=button]{
+	display: inline-block;
+	color: #ffffff; 
+	border-radius: 5px; 
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border: none; 
+	background: #e95645;
+	width: auto;
+	height:52px;
+	line-height: 52px;
+	text-decoration: none;
+	font-size: 16px;	
+	padding:0 20px;
+}
+#wpbiker-form-id-1 input[type=button]:hover { 
+	cursor: pointer; 
+	background: #d45041; 
+}
+#wpbiker-form-id-1 input[type=text],#wpbiker-form-id-1 textarea, #wpbiker-form-id-1 select{ 
+	background: #fcfcfc; 
+	border: 1px solid #eeeeee; 
+	padding: 10px; 
+	display: block; 
+	font-size: 15px; 
+	color: #555555; 
+	border-radius: 5px; 
+	-moz-border-radius: 5px; 
+	-o-border-radius: 5px; 
+	-webkit-border-radius: 5px; 
+	max-width: none; 
+	width: 100%; 
+	-moz-box-sizing: border-box; 
+	box-sizing: border-box;
+	margin-bottom: 13px; 
+	text-align:left;
+}
+#wpbiker-form-id-1 select{
+	padding-left:6px;
+}
+#wpbiker-form-id-1 textarea{
+	height:120px; 
+	margin-bottom: 13px; 
+}
+#wpbiker-form-id-1 input[type=text], #wpbiker-form-id-1 select{
+	height:52px; 
+	line-height: 52px; 
+}
+#wpbiker-form-id-1 input[type=text]::-webkit-input-placeholder,#wpbiker-form-id-1 textarea::-webkit-input-placeholder {
+	color: #777777;
+}
+#wpbiker-form-id-1 input[type=text]:-moz-placeholder,#wpbiker-form-id-1 textarea:-moz-placeholder { /* Firefox 18- */
+	color: #777777;
+}
+#wpbiker-form-id-1 input[type=text]::-moz-placeholder,#wpbiker-form-id-1 textarea::-moz-placeholder {  /* Firefox 19+ */
+	color: #777777;
+}
+#wpbiker-form-id-1 input[type=text]:-ms-input-placeholder,.#wpbiker-form-id-1 textarea:-ms-input-placeholder {
+	color: #777777;
+}
+#wpbiker-form-id-1 input[type="checkbox"], #wpbiker-form-id-1 input[type="radio"] {
+	vertical-align: middle;
+}
+#wpbikerform-result-1 {
+text-align:left;
+}
+.wpbiker-col {	
+	width: 100%;
+	float: left;	
+	min-height: 1px;	
+	white-space: normal;
+	
+	}  
+.wpbiker-col-1, .wpbiker-col-2, .wpbiker-col-3, .wpbiker-col-4, .wpbiker-col-5, .wpbiker-col-6, .wpbiker-col-7, .wpbiker-col-8, .wpbiker-col-9, .wpbiker-col-10, .wpbiker-col-11, .wpbiker-col-12 {
+	float: left;
+	white-space: normal;
+	display: inline-block;
+	vertical-align: middle;
+	padding-bottom:15px;
+	box-sizing: initial;
+	padding: 0 1%;
+	
+	}    
+.wpbiker-col-12 {width: 98%;}
+.wpbiker-col-11 {width: 89.66666666666666%;}
+.wpbiker-col-10 {width: 81.33333333333334%;}
+.wpbiker-col-9 {width: 73%;}
+.wpbiker-col-8 {width: 64.66666666666666%;}
+.wpbiker-col-7 {width: 56.333333333333336%;}
+.wpbiker-col-6 {width: 48%;}
+.wpbiker-col-5 {width: 39.66666666666667%;}
+.wpbiker-col-4 {width: 31.33333333333333%;}
+.wpbiker-col-3 {width: 23%;}
+.wpbiker-col-2 {width: 14.666666666666664%;}
+.wpbiker-col-1 {width: 6.333333333333332%;}
+@media only screen and (max-width: 480px){
+	#wpbiker-form-parent-1 {
+		width: 85%;		
+	}
+	.wpbiker-col-1, .wpbiker-col-2, .wpbiker-col-3, .wpbiker-col-4, .wpbiker-col-5, .wpbiker-col-6, .wpbiker-col-7, .wpbiker-col-8, .wpbiker-col-9, .wpbiker-col-10, .wpbiker-col-11, .wpbiker-col-12 {
+		width: 98%;
+	}
+}
